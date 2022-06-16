@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jogo-da-velha-React/static/css/main.2463d20b.css",
+    "main.js": "/Jogo-da-velha-React/static/js/main.cdeef345.js",
+    "index.html": "/Jogo-da-velha-React/index.html",
+    "main.2463d20b.css.map": "/Jogo-da-velha-React/static/css/main.2463d20b.css.map",
+    "main.cdeef345.js.map": "/Jogo-da-velha-React/static/js/main.cdeef345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2463d20b.css",
+    "static/js/main.cdeef345.js"
+  ]
+}
